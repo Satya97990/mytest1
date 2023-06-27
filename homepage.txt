@@ -1,1 +1,2 @@
 This is my first home page for web dev at 11:53
+I have successfully pushed my first repostiory at 14:01 to github
